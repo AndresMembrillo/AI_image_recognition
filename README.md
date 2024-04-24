@@ -47,12 +47,7 @@ Project based on the implementation of Deep Learning models (Tensorflow and Kera
 - Convolutional part. Pre-trained model: "vgg16":
     <br>  
   ![VGG](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/154ed276-edf4-47dd-9a0c-f89b5a7a45c5)
-  ![cnn](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/c211da36-d146-4b84-a9db-ba441ac975ff)
-
     <br>
-
-    
-
 - Dense part:
     <br>
 ![simple](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/724a7aa4-18e4-4793-b6cc-a04c7344a4ea)
