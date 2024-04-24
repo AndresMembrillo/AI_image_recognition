@@ -1,5 +1,4 @@
 # <h1 style="font-family:verdana; text-align: center;"> AI or Real? Image Classification Challenge </h1>
-Project based on the implementation of Deep Learning models (convolutional neural networks) in images.
 
 ![robot.png](https://img.freepik.com/premium-photo/arafed-robot-painting-canvas-messy-room-with-window-generative-ai_927978-24454.jpg?w=1060)
 
@@ -41,9 +40,12 @@ https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification/d
 
 
 ## Model
-Para la segmentación de clientes por comportamiento de compra, necesitamos un modelo de aprendizaje no supervisado ya que carecemos de la variable objetivo, que en nuestro caso sería el grupo o segmento que se asigna a cada cliente.
 
-Para ello vamos a comparar dos modelos de clustering, K-Means y DBSCAN. Después de visualizar los clusters, estudiar las métricas de cada modelo, aplicamos el más eficiente: `K-MEANS`
+Project based on the implementation of Deep Learning models (Tensorflow and Keras) in images.
+
+- Convolutional part: Pre-trained model: "vgg16"
+
+- Simple neural network part
 
 ![kmeans](https://github.com/AndresMembrillo/proyecto-usisa/assets/145653361/39023b00-5e1a-4691-af45-62390ea09e00)
 
