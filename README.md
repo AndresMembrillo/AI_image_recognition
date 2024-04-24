@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification/d
 
 
 
-## Model
+## CNN Model
 
 Project based on the implementation of Deep Learning models (Tensorflow and Keras) in images.
 
