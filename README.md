@@ -35,7 +35,9 @@ https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification/d
     🔴NON_AI_GENERATED<br>
 </div>
     <br>
-![descarga](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/af4f4367-cb46-41de-8ef8-8240bc841b1e)
+
+![descarga](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/d22477ee-9cfe-4c46-9786-1bc73e068d96)
+
 
 
 ## Modelo K-MEANS
