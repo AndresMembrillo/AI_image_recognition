@@ -62,6 +62,7 @@ Project based on the implementation of Deep Learning models (Tensorflow and Kera
     📌 &nbsp; 
 In a binary classification task like distinguishing between "AI_GENERATED" and "NON_AI_GENERATED" images, accuracy is a fundamental metric for evaluating model performance. It measures the ratio of correct predictions to the total number of predictions. With balanced class distribution, accuracy provides a comprehensive evaluation of the model's classification accuracy for both categories.
 <br> 
+<br>
     
 ![accuracy](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/14665aee-4613-46c9-b761-8fd155899a9e)
 
