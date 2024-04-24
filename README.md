@@ -43,11 +43,13 @@ https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification/d
 
 Project based on the implementation of Deep Learning models (Tensorflow and Keras) in images.
 
-- Convolutional part: Pre-trained model: "vgg16"
+- Convolutional part. Pre-trained model: "vgg16":
+  ![VGG](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/154ed276-edf4-47dd-9a0c-f89b5a7a45c5)
+    <br>
 
-- Simple neural network part
+- Simple neural network part:
+![simple](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/724a7aa4-18e4-4793-b6cc-a04c7344a4ea)
 
-![kmeans](https://github.com/AndresMembrillo/proyecto-usisa/assets/145653361/39023b00-5e1a-4691-af45-62390ea09e00)
 
 Se agrupan los clientes por sus respectivos clusters y se obtiene el centro de cada cluster usando la media para ver las características que mejor explican cada grupo. El clúster 0  lo etiquetamos como clientes fieles.
 
