@@ -27,7 +27,7 @@ https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification/d
 </p>
 </div>
 
-## DATA VISUALIZATION
+## Data Visualization
 
 <div class="alert alert-block alert-info" style="font-size:14px; font-family:verdana; line-height: 1.7em; background-color: #add8e6; color: #000000;">
     &nbsp; The two categories of the data are:<br>
@@ -40,7 +40,7 @@ https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification/d
 
 
 
-## Modelo K-MEANS
+## Model
 Para la segmentación de clientes por comportamiento de compra, necesitamos un modelo de aprendizaje no supervisado ya que carecemos de la variable objetivo, que en nuestro caso sería el grupo o segmento que se asigna a cada cliente.
 
 Para ello vamos a comparar dos modelos de clustering, K-Means y DBSCAN. Después de visualizar los clusters, estudiar las métricas de cada modelo, aplicamos el más eficiente: `K-MEANS`
