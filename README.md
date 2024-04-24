@@ -2,6 +2,7 @@
 
 ![robot.png](https://img.freepik.com/premium-photo/arafed-robot-painting-canvas-messy-room-with-window-generative-ai_927978-24454.jpg?w=1060)
 
+
 ## <h2>  <center> Where is the data coming from?</center> </h2>
 
 <div class="alert alert-block alert-info" style="font-size:14px; font-family:verdana; line-height: 1.7em;">
@@ -26,6 +27,7 @@ https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification/d
 </p>
 </div>
 
+
 ## Data Visualization
 
 <div class="alert alert-block alert-info" style="font-size:14px; font-family:verdana; line-height: 1.7em; background-color: #add8e6; color: #000000;">
@@ -36,7 +38,6 @@ https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification/d
     <br>
 
 ![descarga](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/d22477ee-9cfe-4c46-9786-1bc73e068d96)
-
 
 
 ## CNN Model
@@ -53,18 +54,17 @@ Project based on the implementation of Deep Learning models (Tensorflow and Kera
 ![simple](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/724a7aa4-18e4-4793-b6cc-a04c7344a4ea)
 
 
+## Model Performance Examples
+![descarga (1)](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/10a6d7e5-ac38-44ac-b89f-f744f5500ede)
+
+
 ## Metric for Evaluation
 
 <div class="alert alert-block alert-info" style="font-size:14px; font-family:verdana; line-height: 1.7em; background-color: #3c0000; color: #f4f4f4;">
     📌 &nbsp; 
 In a binary classification task like distinguishing between "AI_GENERATED" and "NON_AI_GENERATED" images, accuracy is a fundamental metric for evaluating model performance. It measures the ratio of correct predictions to the total number of predictions. With balanced class distribution, accuracy provides a comprehensive evaluation of the model's classification accuracy for both categories.
 
-</div>
-
 ![accuracy](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/299841b3-7bd1-4cc1-aaac-ac178a6e5094)
-
-## Model Performance Examples
-![descarga (1)](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/10a6d7e5-ac38-44ac-b89f-f744f5500ede)
 
 
 ## Conclution
