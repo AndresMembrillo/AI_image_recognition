@@ -53,26 +53,20 @@ Project based on the implementation of Deep Learning models (Tensorflow and Kera
 ![simple](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/724a7aa4-18e4-4793-b6cc-a04c7344a4ea)
 
 
-Se agrupan los clientes por sus respectivos clusters y se obtiene el centro de cada cluster usando la media para ver las características que mejor explican cada grupo. El clúster 0  lo etiquetamos como clientes fieles.
+## Metric for Evaluation
 
-- `Clúster 0`: su última compra fue hace mucho, promedian tan solo un pedido y es el grupo que menos dinero gasta. Corresponde al 54% de los clientes. El clúster 0  lo etiquetamos como clientes perdidos.
+<div class="alert alert-block alert-info" style="font-size:14px; font-family:verdana; line-height: 1.7em; background-color: #3c0000; color: #f4f4f4;">
+    📌 &nbsp; 
+In a binary classification task like distinguishing between "AI_GENERATED" and "NON_AI_GENERATED" images, accuracy is a fundamental metric for evaluating model performance. It measures the ratio of correct predictions to the total number of predictions. With balanced class distribution, accuracy provides a comprehensive evaluation of the model's classification accuracy for both categories.
 
-- `Clúster 1`: se observa que la última compra de este grupo ha sido muy reciente, promedian tan solo un pedido y gasta moderadamente. Comprende el 22% aproximadamente del total de clientes. El clúster 1  lo etiquetamos como clientes nuevos.
+</div>
 
-- `Clúster 2`: su última compra ha sido hace relativamente poco, es el grupo que más pedidos promedia y que más gasta prácticamente cuadruplicando los demás. Se trata del 24% de los clientes. El clúster 2 lo etiquetamos como clientes fieles.
+![accuracy](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/299841b3-7bd1-4cc1-aaac-ac178a6e5094)
 
-También graficamos un mapa de España por cada cluster, con la geolocalización donde se aprecian dónde están los mayores volúmenes de pedidos de cada cluster según su código postal. 
+## Model Performance Examples
+![descarga (1)](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/10a6d7e5-ac38-44ac-b89f-f744f5500ede)
 
-A continuación se visualiza el mapa del cluster 0, etiquetado como el grupo de los clientes perdidos.
-![00mapas](https://github.com/AndresMembrillo/proyecto-usisa/assets/145653361/fd60302d-47bb-436e-a1e3-b071b233d565)
 
-Mapa del cluster 1, etiquetado como el grupo de los clientes nuevos:
-![01mapas](https://github.com/AndresMembrillo/proyecto-usisa/assets/145653361/9894d5c4-40f7-4ead-ae93-c417bfe48310)
-
-Mapa del cluster 2, etiquetado como el grupo de los clientes fieles:
-![02mapas](https://github.com/AndresMembrillo/proyecto-usisa/assets/145653361/13faae0a-e58b-4482-bba6-f43718d8e7e2)
-
-  nota: los mapas son gráficos de la libreria folium, son dinámicos y no se pueden visualizar en GitHub.
-
-## Conclusión
-Hemos segmentado los clientes y sabemos donde se localiza cada grupo, esta información junto a los datos del cliente (correo electrónico) es de gran valor para una campaña de marketing.
+## Conclution
+<blockquote><p style="font-size:16px; color:#159364; font-family:verdana;">💬 
+The model has an accuracy of 0.90 with the data we have worked with. The current model is a prototype 1.0 that has been trained on AI-generated artwork images as well as non-AI-generated images. The goal is to train it with images from different segments. For example, it can compare AI-generated dog images with real dog images, or focus solely on comparisons among humans. The objective is to achieve a model that maintains consistent performance across different data types..</p></blockquote>
