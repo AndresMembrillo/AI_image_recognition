@@ -20,7 +20,6 @@ Project based on the implementation of Deep Learning models (convolutional neura
 <p style="padding: 10px;
               color:white;">
     <br>
-    <br>
 📍Information about the data
     
 Original data can be found at the following link. It contains more than 15,000 artwork images with each and every label verified:
