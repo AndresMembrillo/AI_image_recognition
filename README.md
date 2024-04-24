@@ -3,7 +3,12 @@ Project based on the implementation of Deep Learning models (convolutional neura
 
 ![robot.png](https://img.freepik.com/premium-photo/arafed-robot-painting-canvas-messy-room-with-window-generative-ai_927978-24454.jpg?w=1060)
 
-## Datos
+## <h2>  <center> Where is the data coming from?</center> </h2>
+
+<div class="alert alert-block alert-info" style="font-size:14px; font-family:verdana; line-height: 1.7em;">
+    📌 &nbsp;In response to the rise of AI-generated images, our challenge is to develop a Convolutional Neural Network (CNN) model that distinguishes between authentic and AI-generated images, ensuring reliability in digital content.
+</div>
+
 <div style="color:white;
            display:fill;
            border-radius:5px;
