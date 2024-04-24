@@ -49,7 +49,7 @@ Project based on the implementation of Deep Learning models (Tensorflow and Kera
   ![VGG](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/154ed276-edf4-47dd-9a0c-f89b5a7a45c5)
     <br>
 
-- Simple neural network part:
+- Dense part:
     <br>
 ![simple](https://github.com/AndresMembrillo/AI_image_recognition/assets/145653361/724a7aa4-18e4-4793-b6cc-a04c7344a4ea)
 
