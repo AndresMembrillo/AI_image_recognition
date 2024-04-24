@@ -1,4 +1,4 @@
-# AI IMAGE RECOGNITION PROJECT - SEGMENTACIÓN DE CLIENTES
+# <h1 style="font-family:verdana; text-align: center;"> AI or Real? Image Classification Challenge </h1>
 Project based on the implementation of Deep Learning models (convolutional neural networks) in images.
 
 ![robot.png](https://img.freepik.com/premium-photo/arafed-robot-painting-canvas-messy-room-with-window-generative-ai_927978-24454.jpg?w=1060)
