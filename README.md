@@ -70,4 +70,4 @@ In a binary classification task like distinguishing between "AI_GENERATED" and "
 
 ## Conclution
 <blockquote><p style="font-size:16px; color:#159364; font-family:verdana;">💬 
-The model has an accuracy of 0.90 with the data we have worked with. The current model is a prototype 1.0 that has been trained on AI-generated artwork images as well as non-AI-generated images. The goal is to train it with images from different segments. For example, it can compare AI-generated dog images with real dog images, or focus solely on comparisons among humans. The objective is to achieve a model that maintains consistent performance across different data types..</p></blockquote>
+The model has an accuracy of 0.90 with the data we have worked with. The current model is a prototype 1.0 that has been trained on AI-generated artwork images as well as non-AI-generated images. The goal is to train it with images from different segments. For example, it can compare AI-generated dog images with real dog images, or focus solely on comparisons among humans. The objective is to achieve a model that maintains consistent performance across different data types.</p></blockquote>
